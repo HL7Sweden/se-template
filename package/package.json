@@ -5,7 +5,7 @@
   "license": "CC0-1.0",
   "description": "SE FHIR Template",
   "author": "http://hl7.se",
-  "canonical": "http://hl7.se.fhir.template",
+  "canonical": "https://github.com/HL7Sweden/se-template",
   "base": "fhir.base.template",
   "dependencies": {
       "fhir.base.template": "current"
